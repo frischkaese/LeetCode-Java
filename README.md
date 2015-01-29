@@ -19,3 +19,4 @@
 ### Math
 
 * [Reverse Integer](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Reverse%20Integer)
+* [String to Integer (atoi)](https://github.com/frischkaese/LeetCode-Java/blob/master/code/String%20to%20Integer%20(atoi))
