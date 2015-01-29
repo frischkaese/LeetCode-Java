@@ -15,3 +15,7 @@
 ### Linked List
 
 * [Add Two Numbers](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Add%20Two%20Numbers)
+
+### Math
+
+* [Reverse Integer](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Reverse%20Integer)
