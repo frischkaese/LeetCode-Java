@@ -21,3 +21,7 @@
 
 * [Reverse Integer](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Reverse%20Integer)
 * [Palindrome Number](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Palindrome%20Number)
+
+### Dynamic Programming
+
+* [Regular Expression Matching](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Regular%20Expression%20Matching)
