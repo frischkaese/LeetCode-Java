@@ -11,6 +11,7 @@
 * [Longest Substring Without Repeating Characters](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Longest%20Substring%20Without%20Repeating%20Characters)
 * [Longest Palindromic Substring](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Longest%20Palindromic%20Substring)
 * [ZigZag Conversion](https://github.com/frischkaese/LeetCode-Java/blob/master/code/ZigZag%20Conversion)
+* [String to Integer (atoi)](https://github.com/frischkaese/LeetCode-Java/blob/master/code/String%20to%20Integer%20(atoi))
 
 ### Linked List
 
@@ -19,4 +20,3 @@
 ### Math
 
 * [Reverse Integer](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Reverse%20Integer)
-* [String to Integer (atoi)](https://github.com/frischkaese/LeetCode-Java/blob/master/code/String%20to%20Integer%20(atoi))
