@@ -1,3 +1,31 @@
 Determine whether an integer is a palindrome. Do this without extra space.
 
 
+public class Solution {
+    public boolean isPalindrome(int x) {
+        if(x<0){
+            return false;
+        }
+        
+        int revInt=reverse(x);
+        if((x-revInt)==0){
+            return true;
+        }else{
+            return false;
+        }
+    }
+    
+    public int reverse(int x){
+        long result=0;
+        while(x>0){
+            int rest=x%10;
+            x=x/10;
+            result=result*10+rest;
+        }
+        if(result>Integer.MAX_VALUE){
+            return 0;
+        }else{
+            return (int) result;
+        }
+    }
+}
