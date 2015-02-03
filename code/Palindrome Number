@@ -7,6 +7,10 @@ public class Solution {
             return false;
         }
         
+        if(x==0){
+            return true;
+        }
+        
         int revInt=reverse(x);
         if(x==revInt){
             return true;
