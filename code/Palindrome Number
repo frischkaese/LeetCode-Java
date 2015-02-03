@@ -8,7 +8,7 @@ public class Solution {
         }
         
         int revInt=reverse(x);
-        if((x-revInt)==0){
+        if(x==revInt){
             return true;
         }else{
             return false;
