@@ -22,6 +22,7 @@
 
 * [Reverse Integer](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Reverse%20Integer)
 * [Palindrome Number](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Palindrome%20Number)
+* [Integer to Roman](https://github.com/frischkaese/LeetCode-Java/blob/master/code/Integer%20to%20Roman)
 
 ### Dynamic Programming
 
