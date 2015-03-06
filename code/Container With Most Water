@@ -3,3 +3,22 @@ Given n non-negative integers a1, a2, ..., an, where each represents a point at 
 Note: You may not slant the container.
 
 
+public class Solution {
+    public int maxArea(int[] height) {
+        int most=0;
+        int vol=0;
+        int len=height.length;
+        int left=0;
+        int right=len-1;
+        while(left<right){
+            vol=(right-left)*Math.min(height[left],height[right]);
+            most=(most>=vol)?most:vol;
+            if(height[left]<height[right]){
+                left++;
+            }else{
+                right--;
+            }
+        }
+        return most;
+    }
+}
